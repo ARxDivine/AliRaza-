@@ -17,7 +17,14 @@
         "device_id": "8359766cc57f265a",
         "username": "ARxDivine",
         "password": "51296714322",
-        "expirydate": "7-08-2026",
+        "expirydate": "7-02-2026",
         "Allowoffline": false
-    }
+    },
+        {
+        "device_id": "8359766cc57f265a",
+        "username": "1",
+        "password": "pass",
+        "expirydate": "7-10-2026",
+        "Allowoffline": true
+    },
 ]
