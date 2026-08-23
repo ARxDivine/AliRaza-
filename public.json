@@ -14,7 +14,7 @@
         "Allowoffline": false
     }, 
     {
-        "device_id": "8359766cc57f265a",
+        "device_id": "6a3837a0df928bd9",
         "username": "295",
         "password": "295",
         "expirydate": "29-8-2027",
@@ -27,12 +27,4 @@
         "expirydate": "1-1-2027",
         "Allowoffline": false
     }
-    {
-        "device_id": "6a3837a0df928bd9",
-        "username": "ALIRAZA IS OWNER",
-        "password": "ALIRAZA IS OWNER",
-        "expirydate": "1-1-2027",
-        "Allowoffline": false
-    }
-    
 ]
